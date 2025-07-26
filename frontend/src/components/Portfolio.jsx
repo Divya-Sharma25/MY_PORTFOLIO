@@ -11,6 +11,9 @@ const Portfolio = () => {
   const [activeSection, setActiveSection] = useState("about");
   const [scrollY, setScrollY] = useState(0);
 
+  // Initialize scroll animations
+  useScrollAnimations();
+
   useEffect(() => {
     const handleScroll = () => {
       setScrollY(window.scrollY);
