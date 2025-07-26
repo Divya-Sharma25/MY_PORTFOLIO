@@ -5,6 +5,7 @@ import { Badge } from "./ui/badge";
 import { Separator } from "./ui/separator";
 import { Github, Linkedin, Mail, Download, ExternalLink, Calendar, MapPin, GraduationCap, Sparkles, Code2, Database, Brain } from "lucide-react";
 import { mockData } from "../data/mock";
+import useScrollAnimations from "./ScrollAnimations";
 
 const Portfolio = () => {
   const [activeSection, setActiveSection] = useState("about");
