@@ -62,55 +62,56 @@ export const mockData = {
       title: "AR/VR Certificate of Appreciation – Unity",
       date: "Jul 2023",
       organization: "Unity Technologies",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      // Individual certificate links will be provided by user
+      link: "https://drive.google.com/file/d/CERTIFICATE_ID_1/view"
     },
     {
       title: "Unity AR/VR Training Program",
       date: "Jul–Aug 2023", 
       organization: "Unity Technologies",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/CERTIFICATE_ID_2/view"
     },
     {
       title: "Organizer – Dive into Metaverse",
       date: "Aug–Dec 2023",
       organization: "72-hour Training Program",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/CERTIFICATE_ID_3/view"
     },
     {
       title: "Finalist – Smart India Hackathon", 
       date: "Sep 2023",
       organization: "Government of India",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/CERTIFICATE_ID_4/view"
     },
     {
       title: "2nd Place – VR Competition, Manak Mahotsav",
       date: "Oct 2023",
       organization: "Technical Competition",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/CERTIFICATE_ID_5/view"
     },
     {
       title: "3rd Place – Brain Teaser, Maestros",
       date: "Mar 2024", 
       organization: "Academic Competition",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/CERTIFICATE_ID_6/view"
     },
     {
       title: "Summer Training – Data Analytics using Python",
       date: "Jul 2024",
       organization: "Professional Development",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/CERTIFICATE_ID_7/view"
     },
     {
       title: "Quantum Quest Technical Quiz",
       date: "Apr 2025",
       organization: "Technical Competition", 
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/CERTIFICATE_ID_8/view"
     },
     {
       title: "National Technology Day – Declamation Competition",
       date: "May 2025",
       organization: "National Competition",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/CERTIFICATE_ID_9/view"
     }
   ],
 
@@ -171,6 +172,9 @@ export const mockData = {
     }
   ],
 
-  resumeLink: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE",
+  // Direct PDF link for resume - to be updated by user
+  resumeLink: "https://drive.google.com/file/d/RESUME_FILE_ID/view",
+  
+  // Certificates folder for "View All" button
   certificatesFolder: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
 };
