@@ -1,49 +1,100 @@
-# Getting Started with Create React App
+# Divya Sharma - Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, professional portfolio website built with React and designed for deployment on Vercel, Netlify, or GitHub Pages.
 
-## Available Scripts
+## 🌟 Features
 
-In the project directory, you can run:
+- **Modern Design**: Glassmorphism effects with soft gradient backgrounds
+- **Responsive**: Optimized for all devices and screen sizes
+- **Interactive**: Smooth animations and hover effects
+- **Performance**: Optimized for fast loading and smooth user experience
+- **Professional**: Ready for job applications and professional networking
 
-### `npm start`
+## 🚀 Quick Setup
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Installation
+```bash
+# Install dependencies
+npm install
+# or
+yarn install
 
-### `npm test`
+# Start development server
+npm start
+# or
+yarn start
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📝 Customization Guide
 
-### `npm run build`
+### 1. Personal Information
+Edit `/src/data/mock.js` to update:
+- About section content
+- Project details and GitHub links
+- Education and experience
+- Skills and certifications
+- Contact information
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 2. Certificate Links
+Replace placeholder certificate links with actual Google Drive file URLs:
+```javascript
+// In mock.js, replace CERTIFICATE_ID_X with actual file IDs
+link: "https://drive.google.com/file/d/YOUR_ACTUAL_FILE_ID/view"
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 3. Resume Link
+Update the resume link with your direct PDF URL:
+```javascript
+resumeLink: "https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view"
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Deployment
 
-### `npm run eject`
+### Vercel (Recommended)
+1. Connect your GitHub repository to Vercel
+2. Set build command: `npm run build`
+3. Set output directory: `build`
+4. Deploy automatically on git push
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Netlify
+1. Connect repository to Netlify
+2. Build command: `npm run build`
+3. Publish directory: `build`
+4. Deploy
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### GitHub Pages
+1. Install gh-pages: `npm install --save-dev gh-pages`
+2. Add to package.json:
+```json
+{
+  "homepage": "https://yourusername.github.io/your-repo-name",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
+```
+3. Run: `npm run deploy`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🔧 Performance Optimizations
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Image Optimization**: Lazy loading for all images
+- **Bundle Splitting**: Automatic code splitting with React
+- **CSS Optimization**: Tailwind CSS with purging
+- **Animation Performance**: GPU-accelerated transforms
+- **Lighthouse Score**: Optimized for 90+ scores
 
-## Learn More
+## 📄 License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project is open source and available under the [MIT License](LICENSE).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+
+**Built with ❤️ for professional success**
 
 ### Code Splitting
 
