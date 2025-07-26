@@ -180,8 +180,8 @@ export const mockData = {
     }
   ],
 
-  // Direct PDF link for resume - to be updated by user
-  resumeLink: "https://drive.google.com/file/d/RESUME_FILE_ID/view",
+  // Direct PDF link for resume download
+  resumeLink: "https://drive.google.com/file/d/17CzA8d7QQgnCjEKcpqsolDI-PJOeBuHO/view?usp=drive_link",
   
   // Certificates folder for "View All" button
   certificatesFolder: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
