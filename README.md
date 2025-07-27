@@ -3,7 +3,7 @@
 This is my fully responsive and interactive portfolio website built using **React.js** and **Tailwind CSS**, deployed on **Vercel**.
 
 ## 🔗 Live Website
-👉 [Visit Portfolio](https://your-custom-name.vercel.app)
+👉 [Visit Portfolio](https://divya-sharma-portfolio.vercel.app/)
 
 ## 🚀 Features
 - Modern glassmorphism design ✨
