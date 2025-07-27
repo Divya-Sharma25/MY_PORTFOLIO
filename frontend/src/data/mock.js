@@ -62,58 +62,49 @@ export const mockData = {
       title: "AR/VR Certificate of Appreciation – Unity",
       date: "Jul 2023",
       organization: "Unity Technologies",
-      // Links to certificates folder - replace with individual file IDs when available
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/1iFJ2kc34dK-QwhHai0u0nYQCY1PDh2Cq/view?usp=drive_link"
     },
     {
       title: "Unity AR/VR Training Program",
       date: "Jul–Aug 2023", 
       organization: "Unity Technologies",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
-    },
-    {
-      title: "Organizer – Dive into Metaverse",
-      date: "Aug–Dec 2023",
-      organization: "72-hour Training Program",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/1hWJuQvdBihmlD2zpfRlQLC94SbClpVOD/view?usp=drive_link"
     },
     {
       title: "Finalist – Smart India Hackathon", 
       date: "Sep 2023",
       organization: "Government of India",
-      // This should link to Smart_India_Hackathon.pdf when individual file ID is provided
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/1hmJ6W1q_dc2E7OOIm5yRQS_mTQ7MfiSv/view?usp=drive_link"
     },
     {
       title: "2nd Place – VR Competition, Manak Mahotsav",
       date: "Oct 2023",
       organization: "Technical Competition",
-      // This should link to Manak_Mahotsav.pdf when individual file ID is provided
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/1i3mEVsUXKKe-wQM7iDHZQ8d7_TLiKpqX/view?usp=drive_link"
     },
     {
       title: "3rd Place – Brain Teaser, Maestros",
       date: "Mar 2024", 
       organization: "Academic Competition",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/1iDIYFoOqHQcuPKtDLvTwzj3t7yvf2aLq/view?usp=drive_link"
     },
     {
       title: "Summer Training – Data Analytics using Python",
       date: "Jul 2024",
       organization: "Professional Development",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/1hxIz_gErk-2Hx9x7gtV-yU-difvijRoy/view?usp=drive_link"
     },
     {
       title: "Quantum Quest Technical Quiz",
       date: "Apr 2025",
       organization: "Technical Competition", 
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/1iFLkOKOyolkALa3gOsYhWh65AvzI1hMC/view?usp=drive_link"
     },
     {
       title: "National Technology Day – Declamation Competition",
       date: "May 2025",
       organization: "National Competition",
-      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
+      link: "https://drive.google.com/file/d/1hh6PGanSfX16wCCxthF3zeobzJ_K2lZO/view?usp=drive_link"
     }
   ],
 
