@@ -62,64 +62,58 @@ export const mockData = {
       title: "AR/VR Certificate of Appreciation – Unity",
       date: "Jul 2023",
       organization: "Unity Technologies",
-      // Replace FILE_ID_1 with actual Google Drive file ID for this certificate
-      link: "https://drive.google.com/file/d/FILE_ID_1/view?usp=drive_link"
+      // Links to certificates folder - replace with individual file IDs when available
+      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
     },
     {
       title: "Unity AR/VR Training Program",
       date: "Jul–Aug 2023", 
       organization: "Unity Technologies",
-      // Replace FILE_ID_2 with actual Google Drive file ID for this certificate
-      link: "https://drive.google.com/file/d/FILE_ID_2/view?usp=drive_link"
+      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
     },
     {
       title: "Organizer – Dive into Metaverse",
       date: "Aug–Dec 2023",
       organization: "72-hour Training Program",
-      // Replace FILE_ID_3 with actual Google Drive file ID for this certificate
-      link: "https://drive.google.com/file/d/FILE_ID_3/view?usp=drive_link"
+      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
     },
     {
       title: "Finalist – Smart India Hackathon", 
       date: "Sep 2023",
       organization: "Government of India",
-      // Replace FILE_ID_4 with actual Google Drive file ID for Smart_India_Hackathon.pdf
-      link: "https://drive.google.com/file/d/FILE_ID_4/view?usp=drive_link"
+      // This should link to Smart_India_Hackathon.pdf when individual file ID is provided
+      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
     },
     {
       title: "2nd Place – VR Competition, Manak Mahotsav",
       date: "Oct 2023",
       organization: "Technical Competition",
-      // Replace FILE_ID_5 with actual Google Drive file ID for Manak_Mahotsav.pdf
-      link: "https://drive.google.com/file/d/FILE_ID_5/view?usp=drive_link"
+      // This should link to Manak_Mahotsav.pdf when individual file ID is provided
+      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
     },
     {
       title: "3rd Place – Brain Teaser, Maestros",
       date: "Mar 2024", 
       organization: "Academic Competition",
-      // Replace FILE_ID_6 with actual Google Drive file ID for this certificate
-      link: "https://drive.google.com/file/d/FILE_ID_6/view?usp=drive_link"
+      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
     },
     {
       title: "Summer Training – Data Analytics using Python",
       date: "Jul 2024",
       organization: "Professional Development",
-      // Replace FILE_ID_7 with actual Google Drive file ID for this certificate
-      link: "https://drive.google.com/file/d/FILE_ID_7/view?usp=drive_link"
+      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
     },
     {
       title: "Quantum Quest Technical Quiz",
       date: "Apr 2025",
       organization: "Technical Competition", 
-      // Replace FILE_ID_8 with actual Google Drive file ID for this certificate
-      link: "https://drive.google.com/file/d/FILE_ID_8/view?usp=drive_link"
+      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
     },
     {
       title: "National Technology Day – Declamation Competition",
       date: "May 2025",
       organization: "National Competition",
-      // Replace FILE_ID_9 with actual Google Drive file ID for this certificate
-      link: "https://drive.google.com/file/d/FILE_ID_9/view?usp=drive_link"
+      link: "https://drive.google.com/drive/folders/14RAtlEl0-zBc2KHE5d3h0ZtWFx4ZmLkE"
     }
   ],
 
